@@ -1,1 +1,1 @@
-# Website 
+# Website for subdomain and hosting
